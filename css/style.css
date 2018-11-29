@@ -152,6 +152,15 @@ header {
 
 /*******************************************************************/
 
+.headerMid {
+	padding-left: 5000;
+	 left: 0;
+}
+
+
+
+/*******************************************************************/
+
 .agile_banner.bg2 {
     background: url(../images/bg2.jpg) center no-repeat;
     background-size: cover;
