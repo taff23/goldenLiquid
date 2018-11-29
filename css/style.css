@@ -78,6 +78,9 @@ header {
 .logo_wthree a i {
     font-size: 4em;
 }
+.logo_wthree a .fa5b.fa-node-js {
+}
+
 
 /* /nav */
 
@@ -153,8 +156,9 @@ header {
 /*******************************************************************/
 
 .headerMid {
-	padding-left: 5000;
-	 left: 0;
+	position: absolute;
+	left: 48%;
+	
 }
 
 
