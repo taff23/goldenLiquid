@@ -161,7 +161,14 @@ header {
 	
 }
 
+.deckrow{
+	margin-top: 10;
+}
 
+.card{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
 
 /*******************************************************************/
 
